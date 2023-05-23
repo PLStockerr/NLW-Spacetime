@@ -1,5 +1,5 @@
 <p aling="center">
- <img src=".github/preview.png" alt="Demonstração do Projeto" width="100%" />
+ <img src=".github/preview.png" alt="Demonstração do Projeto" width="100%"/>
 </p>
 
 ## Projeto 🖥️
@@ -16,5 +16,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias
 
 ## Layout 🗺️
 
-Você pode visualizar o layout do projeto através
+Você pode visualizar o layout do projeto através do
 [link](https://www.figma.com/community/file/1240071097028170811)
